@@ -159,12 +159,12 @@ A tag change was used instead of editing the page HTML because User Data runs on
 ## Screenshots
 
 
-```markdown
+
 ![GitHub Actions success](Images/01_github_action_initial.jpg)
 ![GitHub Actions success](Images/04_GitHub_Actions_second%20update.jpg)
 ![EC2 instance and tags](Images/02_Ubuntu_EC2_instance.jpg)
 ![Nginx website](Images/03_Nginx_website.jpg)
-```
+
 
 Make sure no access keys or sensitive account details are visible in any screenshot.
 
